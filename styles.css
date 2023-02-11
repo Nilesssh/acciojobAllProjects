@@ -1,5 +1,6 @@
 *{
-    margin: none;
+    margin: 0;
+    padding: 0;
     text-decoration: none;
 }
 nav{
@@ -44,4 +45,7 @@ a{
 .nice{
     font-size: 200%;
     font-weight: 400;
+}
+.lists{
+    margin-left: 50px;
 }
